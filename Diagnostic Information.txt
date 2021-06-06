@@ -1,0 +1,67 @@
+MDD:
+
+DSM-5 diagnostic criteria for a major depressive episode
+A. Five (or more) of the following symptoms have been present during the same two-week period and represent a change from previous functioning; at least one of the symptoms is either (1) depressed mood or (2) loss of interest or pleasure.
+NOTE: Do not include symptoms that are clearly attributable to another medical condition.
+1) Depressed mood most of the day, nearly every day, as indicated by either subjective report (eg, feels sad, empty, hopeless) or observations made by others (eg, appears tearful). (NOTE: In children and adolescents, can be irritable mood.)
+2) Markedly diminished interest or pleasure in all, or almost all, activities most of the day, nearly every day (as indicated by either subjective account or observation).
+3) Significant weight loss when not dieting or weight gain (eg, a change of more than 5% of body weight in a month), or decrease or increase in appetite nearly every day. (NOTE: In children, consider failure to make expected weight gain.)
+4) Insomnia or hypersomnia nearly every day.
+5) Psychomotor agitation or retardation nearly every day (observable by others, not merely subjective feelings of restlessness or being slowed down).
+6) Fatigue or loss of energy nearly every day.
+7) Feelings of worthlessness or excessive or inappropriate guilt (which may be delusional) nearly every day (not merely self-reproach or guilt about being sick).
+8) Diminished ability to think or concentrate, or indecisiveness, nearly every day (either by their subjective account or as observed by others).
+9) Recurrent thoughts of death (not just fear of dying), recurrent suicidal ideation without a specific plan, or a suicide attempt or a specific plan for committing suicide.
+B. The symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+C. The episode is not attributable to the direct physiological effects of a substance or to another medical condition.
+NOTE: Criteria A through C represent a major depressive episode.
+NOTE: Responses to a significant loss (eg, bereavement, financial ruin, losses from a natural disaster, a serious medical illness or disability) may include the feelings of intense sadness, rumination about the loss, insomnia, poor appetite, and weight loss noted in Criterion A, which may resemble a depressive episode. Although such symptoms may be understandable or considered appropriate to the loss, the presence of a major depressive episode in addition to the normal response to a significant loss should also be carefully considered. This decision inevitably requires the exercise of clinical judgement based on the individual's history and the cultural norms for the expression of distress in the context of loss.
+D. The occurrence of the major depressive episode is not better explained by schizoaffective disorder, schizophrenia, schizophreniform disorder, delusional disorder, or other specified and unspecified schizophrenia spectrum and other psychotic disorders.
+E. There has never been a manic or hypomanic episode.
+NOTE: This exclusion does not apply if all of the manic-like or hypomanic-like episodes are substance-induced or are attributable to the physiological effects of another medical condition.
+Specify:
+With anxious distress
+With mixed features
+With melancholic features
+With atypical features
+With psychotic features
+With catatonia
+With peripartum onset
+With seasonal pattern
+
+
+BP I:
+
+DSM-5 diagnostic criteria for manic episode
+A. A distinct period of abnormally and persistently elevated, expansive, or irritable mood and abnormally and persistently increased activity or energy, lasting at least one week and present most of the day, nearly every day (or any duration if hospitalization is necessary).
+B. During the period of mood disturbance and increased energy or activity, three (or more) of the following symptoms (four if the mood is only irritable) are present to a significant degree and represent a noticeable change from usual behavior:
+1) Inflated self-esteem or grandiosity.
+2) Decreased need for sleep (eg, feels rested after only three hours of sleep).
+3) More talkative than usual or pressure to keep talking.
+4) Flight of ideas or subjective experience that thoughts are racing.
+5) Distractibility (ie, attention too easily drawn to unimportant or irrelevant external stimuli), as reported or observed.
+6) Increase in goal-directed activity (either socially, at work or school, or sexually) or psychomotor agitation (ie, purposeless non-goal-directed activity).
+7) Excessive involvement in activities that have a high potential for painful consequences (eg, engaging in unrestrained buying sprees, sexual indiscretions, or foolish business investments).
+C. The mood disturbance is sufficiently severe to cause marked impairment in social or occupational functioning or to necessitate hospitalization to prevent harm to self or others, or there are psychotic features.
+D. The episode is not attributable to the physiological effects of a substance (eg, a drug of abuse, a medication, other treatment) or to another medical condition.
+NOTE: A full manic episode that emerges during antidepressant treatment (eg, medication, electroconvulsive therapy) but persists at a fully syndromal level beyond the physiological effect of that treatment is sufficient evidence for a manic episode and, therefore, a bipolar I diagnosis.
+
+
+BP II:
+
+DSM-5 diagnostic criteria for hypomanic episode
+A. A distinct period of abnormally and persistently elevated, expansive, or irritable mood and abnormally and persistently increased activity or energy, lasting at least four consecutive days and present most of the day, nearly every day.
+B. During the period of mood disturbance and increased energy and activity, three (or more) of the following symptoms (four if the mood is only irritable) have persisted, represent a noticeable change from usual behavior, and have been present to a significant degree:
+1) Inflated self-esteem or grandiosity.
+2) Decreased need for sleep (eg, feels rested after only three hours of sleep).
+3) More talkative than usual or pressure to keep talking.
+4) Flight of ideas or subjective experience that thoughts are racing.
+5) Distractibility (ie, attention too easily drawn to unimportant or irrelevant external stimuli), as reported or observed.
+6) Increase in goal-directed activity (either socially, at work or school, or sexually) or psychomotor agitation.
+7) Excessive involvement in activities that have a high potential for painful consequences (eg, engaging in unrestrained buying sprees, sexual indiscretions, or foolish business investments).
+C. The episode is associated with an unequivocal change in functioning that is uncharacteristic of the individual when not symptomatic.
+D. The disturbance in mood and the change in functioning are observable by others.
+E. The episode is not severe enough to cause marked impairment in social or occupational functioning or to necessitate hospitalization. If there are psychotic features, the episode is, by definition, manic.
+F. The episode is not attributable to the physiological effects of a substance (eg, a drug of abuse, a medication, or other treatment).
+NOTE: A full hypomanic episode that emerges during antidepressant treatment (eg, medication, electroconvulsive therapy) but persists at a fully syndromal level beyond the physiological effect of that treatment is sufficient evidence for a hypomanic episode diagnosis. However, caution is indicated so that one or two symptoms (particularly increased irritability, edginess, or agitation following antidepressant use) are not taken as sufficient for a diagnosis of a hypomanic episode, nor necessarily indicative of a bipolar diathesis.
+NOTE: Criteria A through F constitute a hypomanic episode. Hypomanic episodes are common in bipolar I disorder but are not required for the diagnosis of bipolar I disorder.
