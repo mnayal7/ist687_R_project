@@ -298,3 +298,45 @@ library(lattice)
 fourGroupsSleepDay <- grid.arrange(controlSleepDayPlot, bp1SleepPlotDay, mddSleepPlotDay, bipolarSleepPlotDay, nrow=2)
 fourGroupsSleepDay
 
+
+
+
+
+
+
+
+
+
+#creating KSVM for sleep info
+library(kernlab)
+
+#creating KSVM taking into account sleep
+combinedCondControlSleepDF
+
+someSleepDFCopy <- na.omit(combinedCondControlSleepDF)
+someSleepDFCopy <- merge(someSleepDFCopy, scores, id='number')
+
+randomIndex <- sample(1:nrow(someSleepDFCopy))
+cuttOff <- floor(2*(nrow(someSleepDFCopy))/3)
+train.sleep <- someSleepDFCopy[randomIndex[1:cuttOff],]
+test.sleep <- someSleepDFCopy[randomIndex[(cuttOff+1):(length(randomIndex))],]
+
+
+totalSleepKSVMmodel <-ksvm(as.factor(madrs2)~(DoWSleep+age+gender), data=train.sleep, kernel = "rbfdot", kpar ="automatic", C= 50, cross = 3, prob.model = TRUE)
+) 
+
+
+prediction <- predict(totalSleepKSVMmodel, test.sleep)                          
+
+#sleep KSVM confusion matrix
+confusionMatrix(as.factor(prediction), as.factor(test.sleep$madrs2))
+
+#sleep KSVM error chart
+ksvmResults %>%
+  mutate(id = row_number()) %>%
+  pivot_longer(cols = -c('id'), names_to = 'variable', values_to = 'value') %>%
+  ggplot(aes(id, value, col = variable)) + 
+  geom_point(size = 2) +  geom_line(aes(group = id),color='grey') +
+  theme_minimal() + theme(legend.position = 'bottom') +
+  labs(x = '', y = 'Predicted Value', col = '', 
+       title = "KSVM Model")
